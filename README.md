@@ -33,19 +33,15 @@
 
 ##
 
-### 📊 Estatísticas
-
 <div>
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MatheusRCG&card_width=30px&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide=contribs,stars&show=prs_merged&rank_icon=github&"
+    src="https://github-readme-stats.vercel.app/api?username=MatheusRCG&card_width=30px&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide=contribs,stars&show=prs_merged&rank_icon=github"
   />
   <img
     alt="GitHub Stats" 
-    height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRCG&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
   />
 </div>
